@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px; /*35 norm in phone*/
+}
+body{
+   background-color: bisque;
+}
+h2{
+    font-size: 20px; /*25 norm in phone*/
+    font-family: cursive;
+}
+p{
+    font-size: large;
+    clear: none;
+}
